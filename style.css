@@ -1,0 +1,75 @@
+main .container.dua {
+    padding-top: 8rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+main .container.tulisan {
+    flex-wrap: wrap;
+    line-height: 35px;
+}
+
+main .icon-icon {
+    display: flex;
+}
+
+main .icons {
+    padding-left: 25px;
+}
+
+.bi-linkedin,
+.bi-instagram,
+.bi-whatsapp,
+.bi-github {
+    margin-right: 20px;
+    padding-top: 2px;
+}
+
+main .button-cv {
+    margin-top: 10px;
+
+}
+
+a .hyperlink {
+    text-decoration: none;
+}
+
+.container.gambar {
+    display: flex;
+    justify-content: flex-end;
+    width: 300px;
+
+}
+
+
+.container.tiga {
+    margin-top: 14rem;
+}
+
+.container.empat {
+    margin-top: 10rem;
+}
+
+.projects {
+    margin-top: 3rem;
+    display: flex;
+}
+
+
+.container.logo img {
+    margin: 8rem 40px;
+}
+
+footer {
+    background-image: url(Frame2.png);
+    background-size: cover;
+    height: 300px;
+}
+
+.container.lima {
+    padding-top: 60px;
+}
+
+footer .icons2 {
+    margin-top: 2rem;
+}
